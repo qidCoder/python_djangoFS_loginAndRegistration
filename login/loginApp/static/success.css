@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    border: 1px dashed hotpink;
+}
+
+p{
+    color: green;
+    margin: 10px 0;
+}
+
+a{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+body{
+    padding: 20px;
+}
